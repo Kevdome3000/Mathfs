@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="$NUGET_CREDENTIALPROVIDER_SESSIONTOKENCACHE_ENABLED$" />
+    <option name="showLibraryContents" value="$NUGET_CREDENTIALPROVIDER_SESSIONTOKENCACHE_ENABLED$" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="USER" value="kevdome3000 " />
+    </envs>
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="$NUGET_CREDENTIALPROVIDER_SESSIONTOKENCACHE_ENABLED$" />
+  <component name="VcsManagerConfiguration">
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="$NUGET_CREDENTIALPROVIDER_SESSIONTOKENCACHE_ENABLED$" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="$NUGET_CREDENTIALPROVIDER_SESSIONTOKENCACHE_ENABLED$" />
+  </component>
+</project>
